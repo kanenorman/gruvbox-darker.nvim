@@ -254,7 +254,7 @@ return {
     NvimTreeOpenedFolderName = {fg = c.green},
     NvimTreeOpenedFile = {fg = c.green},
     NvimTreeSpecialFile = {fg = c.magenta},
-    NvimTreeWindowPicker = {fg = c.bg1, bg = c.orange},
+    NvimTreeWindowPicker = {fg = c.bg1, bg = c.red},
 
     ---- nvim-dap-ui (external plugin) -------------------------
     DapUIScope = {fg = c.cyan},
