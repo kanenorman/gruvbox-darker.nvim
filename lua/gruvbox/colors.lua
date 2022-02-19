@@ -14,5 +14,6 @@ return {
     darkRed = '#cc241d',
     darkGreen = '#98971a',
     darkBlue = '#458588',
+    darkCyan = '#427b58',
 }
 

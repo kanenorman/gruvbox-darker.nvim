@@ -70,7 +70,7 @@ return {
     SpellRare = {sp = c.yellow, style = undercurl},
 
     ---- :help group-name --------------------------------------
-    Comment = {fg = c.darkGreen},
+    Comment = {fg = c.darkCyan},
     Identifier = {fg = c.fg1}, -- (preferred) any variable name
     Function = {fg = c.blue},
     Constant = {fg = c.magenta},
