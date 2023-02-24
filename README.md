@@ -18,7 +18,7 @@ Disclaimer: This theme has only been tested with NVIM v0.6.1.
 ## Installation
 
 ```lua
-use 'mjlaufer/gruvbox-darker.nvim'
+use 'kanenorman/gruvbox-darker.nvim'
 ```
 
 Inside `init.vim`
